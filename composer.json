@@ -10,7 +10,7 @@
     ],
     "funding": [
         {
-            "url": "https://github.com/Synchro",
+            "url": "https://github.com/AimanHafiz93",
             "type": "github"
         }
     ],
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SSLCertInfo\\SSLCertInfo\\": "src/"
+            "SSLCertInfo\\SSLCertInfo\\": "src"
         }
     }
 }
